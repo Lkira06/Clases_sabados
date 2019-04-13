@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1555162921 source:/home/alumno/Entregas/Luis Guillaza/Programacion 1 - Sabados/Clase07_Sabado/clase07_Sabado/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1555163040 /home/alumno/Entregas/Luis Guillaza/Programacion 1 - Sabados/Clase07_Sabado/clase07_Sabado/utn.h
+
+1555163000 source:/home/alumno/Entregas/Luis Guillaza/Programacion 1 - Sabados/Clase07_Sabado/clase07_Sabado/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
